@@ -806,7 +806,7 @@ If you find ChefMate helpful, please consider:
 
 <div align="center">
 
-**Made with ❤️ and 🍳 by Mayur**
+**Made with ❤️ and 🍳 by Mayur & Team**
 
 [⬆ Back to Top](#-chefmate---ai-powered-recipe-discovery--meal-planning-platform)
 
